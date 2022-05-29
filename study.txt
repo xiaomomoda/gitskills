@@ -1,5 +1,6 @@
 First time study git
-add line1
+add line0
 add line2
 add line3: play LOL yesterday
-add line4: not play today
+add line4: not play today-unsure
+add line6: unknown
