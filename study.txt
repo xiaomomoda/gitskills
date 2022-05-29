@@ -1,3 +1,4 @@
 First time study git
 add line1
 add line2
+add line3: play LOL yesterday
